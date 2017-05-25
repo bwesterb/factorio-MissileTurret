@@ -1,0 +1,11 @@
+{
+    "name": "MissileTurret",
+    "version": "0.1.0",
+    "title": "Missile Turret",
+    "author": "Wouter Geraedts & Bas Westerbaan",
+    "contact": "bas@westerbaan.name",
+    "homepage": "https://github.com/bwesterb/factorio-MissileTurret",
+    "factorio_version": "0.15",
+    "dependencies": ["base >= 0.15"],
+    "description": "Adds turrets that fire... missiles; or nukes!"
+}
